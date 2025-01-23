@@ -17,3 +17,9 @@ A novel approach for silent CFE detection based on heterogeneous relation learni
 ```
 python3 main.py
 ```
+
+(2) Execute the scripts in the "Vulnerable instruction localization" folder to harden programs:
+
+```
+./harden.sh ./program_name
+```
