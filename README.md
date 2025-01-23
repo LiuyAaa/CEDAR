@@ -14,6 +14,6 @@ A novel approach for silent CFE detection based on heterogeneous relation learni
 
 (1) Execute the scripts in the "Vulnerable instruction localization" folder to train on node classification task:
 
-` ``
+```
 python3 main.py
-` ``
+```
