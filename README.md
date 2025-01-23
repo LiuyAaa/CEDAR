@@ -9,3 +9,11 @@ A novel approach for silent CFE detection based on heterogeneous relation learni
  LLVM 7.1;
  
  Pytorch 1.10.2.
+
+# Usage:
+
+(1) Execute the scripts in the "Vulnerable instruction localization" folder to train on node classification task:
+
+` ``
+python3 main.py
+` ``
